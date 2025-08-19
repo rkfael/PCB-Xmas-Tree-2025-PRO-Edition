@@ -4,7 +4,7 @@
 > *"Xmas Tree LED Fade · Pro Edition" is the 2025 upgraded version of a decorative Christmas-themed electronics project. It features a Christmas tree-shaped PCB enhanced with **multi-color silkscreen** graphics, designed on [EasyEDA PRO](https://pro.easyeda.com/) and manufactured by [JLCPCB](https://jlcpcb.com/?from=RMW). The circuit remains based on the NE555 timer and discrete MOSFETs, powering 17 LEDs that softly fade in and out. With USB supply and through-hole components for easy soldering, the design keeps the base unchanged from the previous version and introduces a redesigned colorful tree PCB — perfect for DIY kits. Adjustable fade and frequency control combine functionality with advanced PCB art. All design files are available for download in this repository.*  
 
 Este é um projeto eletrônico decorativo com tema natalino, agora em sua **edição Pro (2025)**.  
-A principal novidade desta versão é a **PCB da árvore redesenhada** com uso da tecnologia **multi-color silkscreen da JLCPCB**, explorando todo o potencial artístico da plataforma [EasyEDA PRO](https://pro.easyeda.com/).  
+A principal novidade desta versão é a **PCB da árvore redesenhada** com uso da tecnologia **multi-color silkscreen da** [JLCPCB](https://jlcpcb.com/?from=RMW), explorando todo o potencial artístico da plataforma [EasyEDA PRO](https://pro.easyeda.com/).  
 
 A **base do projeto continua inalterada**, mantendo o mesmo circuito com o temporizador **NE555** e transistores **MOSFET 2N7000**, alimentação via **USB 5V**, montagem em **PTH** e encaixe da árvore na base.  
 
