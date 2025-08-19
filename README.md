@@ -50,17 +50,17 @@ A **base do projeto continua inalterada**, mantendo o mesmo circuito com o tempo
 <p align="center"><b>Figura 3 - Base da Árvore de Natal / Visualização 3D (inalterada)</b></p>
 
 <p align="center">
-  <img src="https://github.com/rkfael/PCB-Xmas-Tree-2025/blob/main/imagens/Figura%204.png" alt="showcase" width="500"/>
+  <img src="https://github.com/rkfael/PCB-Xmas-Tree-2025-PRO-Edition/blob/main/imagens/Figura%204.png" alt="showcase" width="500"/>
 </p>
 <p align="center"><b>Figura 4 - Topo da Árvore de Natal / TopLayer (multi-color)</b></p>
 
 <p align="center">
-  <img src="https://github.com/rkfael/PCB-Xmas-Tree-2025/blob/main/imagens/Figura%205.png" alt="showcase" width="500"/>
+  <img src="https://github.com/rkfael/PCB-Xmas-Tree-2025-PRO-Edition/blob/main/imagens/Figura%205.png" alt="showcase" width="500"/>
 </p>
 <p align="center"><b>Figura 5 - Topo da Árvore de Natal / BottomLayer (multi-color)</b></p>
 
 <p align="center">
-  <img src="https://github.com/rkfael/PCB-Xmas-Tree-2025/blob/main/imagens/Figura%206.png" alt="showcase" width="500"/>
+  <img src="https://github.com/rkfael/PCB-Xmas-Tree-2025-PRO-Edition/blob/main/imagens/Figura%206.png" alt="showcase" width="500"/>
 </p>
 <p align="center"><b>Figura 6 - Topo da Árvore de Natal / Visualização 3D (multi-color)</b></p>
 
